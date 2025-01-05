@@ -2,7 +2,7 @@
 
 **Database Name: otrsphp**
 
-**Developed by Adelabu Oluwatoyin Simbiat**
+**Developed by Dinesh**
 
 **Recommended PHP Version 7**
 
